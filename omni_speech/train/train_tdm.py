@@ -257,7 +257,6 @@ class LazySupervisedDataset(Dataset):
                  data_args: DataArguments, speech_gen: bool = False, model_version = "llama_3"):
         super(LazySupervisedDataset, self).__init__()
         list_data_dict = json.load(open(data_path, "r"))
-        list_data_dict = list_data_dict[:100]
         # list_data_dict = list_data_dict[:int(len(list_data_dict)*0.45)]
 
         rank0_print("Formatting inputs...Skip in lazy mode")
