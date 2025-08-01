@@ -68,7 +68,7 @@ VocalNet utilizes N-1 sequential Transformer layers as MTP modules, enabling the
 ### Repo Download and Environment Preparartion
 
 ```bash
-git clone https://github.com/YHWmz/VocalNet.git
+git clone https://github.com/SJTU-OmniAgent/VocalNet.git
 cd VocalNet
 
 conda create -n vocalnet python==3.10
