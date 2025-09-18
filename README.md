@@ -31,7 +31,7 @@ Shanghai Jiao Tong University</a>  |  Ant Group</a>
 
 - **VocalNet-8B**: Built upon [LLaMA-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct). In the evaluation of speech interaction models, VocalNet-8B significantly outperforms most mainstream speech LLMs and Omni LLMs.
 
-- **VocalNet-Qwen25-7B**: Built upon [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct). The model enables natural voice interactions in both English and Chinese, with seamless bilingual capabilities.
+- **VocalNet-Qwen25-7B (VocalNet-ML)**: Built upon [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct). The model enables natural voice interactions in both English and Chinese, with seamless multilingual capabilities.
 
 <details>
 
