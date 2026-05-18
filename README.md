@@ -18,7 +18,7 @@ Shanghai Jiao Tong University</a>  |  Ant Group</a>
 <div align="center"><img src="images/VocalNet.png" width="25%"/></div>
 
 ## 🔥 News
-- **[21/08]** 🎉 **VocalNet is accepted at EMNLP 2025 main conference!**
+- **[25/08]** 🎉 **VocalNet is accepted at EMNLP 2025 main conference!**
 - **[25/05]** 🎉 We have released the training code and pretrained model weights for **VocalNet-qwen25-7B**, based on Qwen2.5. Additionally, we've updated the streaming inference code.
 - **[25/04]** 🎉 **VocalNet is here!** Check out our released code, model, and datasets.  
 
